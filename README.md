@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Daoud</h1>
-<h3 align="center">A passionate Full Stack Web Development from Uttarakhand India</h3>
+<h3 align="center">A passionate Full Stack Web Development from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/267318106323269.5f8da6ca9da28.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-daoud&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-daoud" /> </p>
 
