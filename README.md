@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohd-Daoud](https://github.com/Mohd-Daoud)
 
-- 📫 How to reach me **daoudmalik509@gmail.com**
+- 📫 How to reach me **mohd3daoud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
