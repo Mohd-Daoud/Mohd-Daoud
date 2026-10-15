@@ -2,9 +2,7 @@
 
 # Hi there, I'm Mohd Daoud 👋
 
-### 🚀 Full Stack Developer | AI-Powered Solutions | India
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Python+Developer;Building+AI-Powered+Web+Apps;Open+to+Collaborate+%26+Build!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+JDBC+%7C+SQL;Next.js+%7C+Prisma+%7C+REST+APIs;Open+to+Java+Developer+Roles)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Mohd-Daoud&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile Views" />
 
@@ -14,19 +12,19 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Developer** at [**Cybernauts**](https://www.cybernauts.in/) — an AI-powered software development company based in India building enterprise-grade solutions that have impacted **1M+ users** across **60+ projects**.
+I'm a **Backend Developer** at [**Cybernauts**](https://www.cybernauts.in/) in Delhi, India. I build and maintain REST APIs, backend logic, and database-driven features for enterprise and client-facing platforms, including a compliance platform used by **25,000+ professionals across 23 countries**.
 
-I love crafting clean, scalable web applications and integrating intelligent AI features into real-world products. Whether it's a React frontend, a Node.js/Python backend, or an AI-powered feature — I build it end to end.
+My foundation is **Java, SQL, and JDBC**, and I'm currently looking for a **Backend Developer / Java Developer / Full Stack Java Developer** role where I can build on it.
 
 ```javascript
 const mohd = {
-  role:        "Full Stack Developer",
+  role:        "Backend Developer",
   company:     "Cybernauts (cybernauts.in)",
-  location:    "India 🇮🇳",
-  focus:       ["Web Apps", "AI Integration", "REST APIs", "Mobile-First UI"],
-  currentlyBuilding: "Multiple exciting projects 🚧",
+  location:    "Delhi, India 🇮🇳",
+  focus:       ["REST APIs", "Database Design", "Java", "Production Debugging"],
+  currentlyBuilding: ["Lynko (Next.js UI prototype)", "Backend for Able AI"],
   email:       "mohd3daoud@gmail.com",
-  openTo:      ["Collaborations", "Open Source", "Freelance Projects"],
+  openTo:      ["Java Developer roles", "Backend Developer roles", "Open Source"],
 };
 ```
 
@@ -34,32 +32,29 @@ const mohd = {
 
 ## 🛠️ Tech Stack
 
+### ☕ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -86,31 +81,37 @@ const mohd = {
 
 | Project | Stack | Status |
 |--------|-------|--------|
-| 🔨 Project Alpha | React, Node.js, MongoDB | 🚧 In Progress |
+| 🔨 [Lynko](https://github.com/Mohd-Daoud/lynko) | Next.js 16, React 19, TypeScript, Tailwind CSS 4 | 🎨 UI Prototype |
 | 🔨 Project Beta | Next.js, Python, AI | 🚧 In Progress |
 | 🔨 Project Gamma | React Native, Express | 🚧 In Progress |
 
-_Details coming soon — watch this repo for updates!_
+### 🔗 Lynko — what I'm building
 
----
+**Lynko** is a job-tracking web app. Right now I'm building the **UI** with sample data, so I can get the layout and interactions right before wiring up a real backend.
 
-## 💼 Work Experience
+- 📊 **Dashboard** (`/dashboard`) — overview cards and an activity feed
+- 💼 **Jobs** (`/jobs`) — job listings you can filter and sort in the browser
+- ⚙️ **Settings** (`/settings`) — preference controls for the app
 
-### 🏢 Full Stack Developer — [Cybernauts](https://www.cybernauts.in/)
-> Building AI-powered enterprise solutions that solve real business problems.
+**Built with:** Next.js 16 (App Router) · React 19 · TypeScript 5 · Tailwind CSS 4 · Lucide React
 
-- 🌐 Developing scalable full stack web applications using React, Node.js & Python
-- 🤖 Integrating AI features (LLMs, Chatbots, Automations) into client products
-- 📱 Contributing to web and mobile products impacting **1M+ users**
-- 🔁 Working across the full development lifecycle: design → build → deploy
+```bash
+git clone https://github.com/Mohd-Daoud/lynko.git
+cd lynko
+npm install
+npm run dev
+# open http://localhost:3000/dashboard
+```
+
+👉 Full details in the [Lynko repository](https://github.com/Mohd-Daoud/lynko).
 
 ---
 
 ## 🌟 What I'm Focused On
 
-- ⚡ Building fast, scalable **full stack web applications**
-- 🤖 Exploring **AI integrations** in real-world products
-- 📦 Creating reusable, well-documented components and APIs
+- ☕ Strengthening my **Java** stack: Spring Boot, Hibernate, JDBC
+- ⚡ Designing clean, well-tested **REST APIs**
+- 🗄️ Database design and SQL performance
 - 🧪 Writing cleaner code and improving system architecture
 
 ---
