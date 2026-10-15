@@ -100,7 +100,7 @@ git clone https://github.com/Mohd-Daoud/lynko.git
 cd lynko
 npm install
 npm run dev
-# open http://localhost:3000/dashboard
+# open https://****cel.app/
 ```
 
 👉 Full details in the [Lynko repository](https://github.com/Mohd-Daoud/lynko).
