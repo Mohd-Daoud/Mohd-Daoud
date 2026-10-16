@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=230&section=header&text=Let%27s%20Connect%20and%20Build&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Let's Connect and Build banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=640&height=50&lines=Open+to+Work;Java+%7C+Next.js+%7C+Python+%7C+Node.js;REST+APIs+%7C+Database+Logic;Web+Development+in+Any+Language+or+Stack;Let%27s+Build+Something+Great+Together" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=640&height=50&lines=Always+Learning+Always+Building;Java+%7C+Next.js+%7C+Python+%7C+Node.js;REST+APIs+%7C+Database+Logic;Web+Development+in+Any+Language+or+Stack;Let%27s+Build+Something+Great+Together" alt="Typing animation"/>
 
 <br/>
 
