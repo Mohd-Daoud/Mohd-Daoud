@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=230&section=header&text=Open%20to%20Work&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Open to Work banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=640&height=50&lines=Open+to+Work;Frontend+%7C+Backend+%7C+Full+Stack;Web+Development+in+Any+Language+or+Stack;Let%27s+Build+Something+Great+Together" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=640&height=50&lines=Open+to+Work;Java+%7C+Next.js+%7C+Python+%7C+Node.js;REST+APIs+%7C+Database+Logic;Web+Development+in+Any+Language+or+Stack;Let%27s+Build+Something+Great+Together" alt="Typing animation"/>
 
 <br/>
 
