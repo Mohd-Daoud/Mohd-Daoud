@@ -230,7 +230,6 @@ npm run dev
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mohd-Daoud&theme=tokyonight&hide_border=true">
   <img width="98%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Mohd-Daoud&hide_border=true&background=FFFFFF&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=374151&currStreakNum=374151&sideNums=374151&dates=6B7280"/>
 </picture>
-<img width="98%" alt="Contribution calendar" src="https://ghchart.rshah.org/6366F1/Mohd-Daoud"/>
 </div>
 
 ---
