@@ -22,7 +22,7 @@ I build web applications and software end to end. I'm open to **frontend**, **ba
 - 🔌 Hands-on with **REST APIs**, **databases**, and **production debugging**
 
 ```javascript
-const mohd = {
+const mohd-daoud = {
   status: "Open to Work",
   location: "Delhi, India",
   email: "mohd3daoud@gmail.com",
