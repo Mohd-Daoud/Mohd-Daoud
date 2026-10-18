@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge" alt="Open to Work"/>
-<img src="https://komarev.com/ghpvc/?username=Mohd-Daoud&label=PROFILE%20VIEWS&color=6366F1&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-22C55E?style=for-the-badge" alt="Always Building"/>
+  <img src="https://hits.sh/github.com/Mohd-Daoud/Mohd-Daoud.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=6366F1&labelColor=1F2937" alt="Profile views"/>
 
 </div>
 
