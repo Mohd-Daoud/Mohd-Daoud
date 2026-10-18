@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge" alt="Open to Work"/>
-<img src="https://komarev.com/ghpvc/?username=Mohd-Daoud&label=PROFILE%20VIEWS&color=6366F1&style=for-the-badge" alt="Profile views"/>
+<img src="https://hits.sh/github.com/Mohd-Daoud/Mohd-Daoud.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=6366F1&labelColor=1F2937" alt="Profile views"/>
 
 </div>
 
@@ -180,13 +180,12 @@ A secure full-stack web app for managing digital book records.
 <h2 align="center">🔨 Currently Building</h2>
 
 <div align="center">
-
 | Project | Stack | Status |
 |:--|:--|:--|
-| **[Lynko](https://github.com/Mohd-Daoud/lynko)** | Next.js 16 · React 19 · TypeScript 5 · Tailwind CSS 4 | [ PASTE STATUS ] |
-| **Project Beta** | [ PASTE STACK ] | [ PASTE STATUS ] |
-| **Project Gamma** | [ PASTE STACK ] | [ PASTE STATUS ] |
-
+| **[Lynko](https://github.com/Mohd-Daoud/lynko)** | Next.js 16 · React 19 · TypeScript 5 · Tailwind CSS 4 | 🚧 In progress · UI prototype |
+| **Compliance SaaS Platform** | Compliance Workflows · Role-Based Dashboards · REST APIs · Scheduled Reports | 📝 Planned · build starts once client requirements arrive |
+| **Fortunexa** | Backend APIs · Database Logic · Live Data Feed Integration | ✅ Core modules built · Investment History, Current Holdings, Position Tracker |
+ 
 </div>
 
 <h3 align="center">✨ Lynko</h3>
@@ -217,9 +216,8 @@ npm run dev
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
-
+ 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mohd-Daoud&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=818CF8&custom_title=GitHub%20Stats">
   <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mohd-Daoud&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6366F1&icon_color=6366F1&text_color=374151&custom_title=GitHub%20Stats"/>
@@ -228,17 +226,11 @@ npm run dev
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Daoud&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1&custom_title=Top%20Languages">
   <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Daoud&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6366F1&text_color=374151&custom_title=Top%20Languages"/>
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mohd-Daoud&theme=tokyonight&hide_border=true">
   <img width="98%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Mohd-Daoud&hide_border=true&background=FFFFFF&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=374151&currStreakNum=374151&sideNums=374151&dates=6B7280"/>
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Daoud&bg_color=0D1117&color=818CF8&line=6366F1&point=FFFFFF&area=true&area_color=6366F1&hide_border=true&hide_title=true">
-  <img width="98%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Daoud&bg_color=FFFFFF&color=4F46E5&line=6366F1&point=1F2937&area=true&area_color=6366F1&hide_border=true&hide_title=true"/>
-</picture>
-
+<img width="98%" alt="Contribution calendar" src="https://ghchart.rshah.org/6366F1/Mohd-Daoud"/>
 </div>
 
 ---
@@ -254,7 +246,7 @@ npm run dev
 
 <br/><br/>
 
-<i>[ PASTE YOUR QUOTE ]</i>
+💬 <i>“Build with curiosity. Ship with care. Keep learning, always.”</i>
 
 <br/>
 
